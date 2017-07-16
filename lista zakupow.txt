@@ -3,4 +3,7 @@ moja lista zakupów:
 -owoce,
 -jarzynki
 -mieso 
--schabowy,
+-schabowy:	
+	jajka
+	make
+	panierke
