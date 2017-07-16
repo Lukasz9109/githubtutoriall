@@ -7,3 +7,6 @@ moja lista zakupów:
 	jajka
 	make
 	panierke
+	
+	salatka:
+	
