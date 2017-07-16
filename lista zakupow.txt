@@ -1,6 +1,6 @@
 moja lista zakupów:
--pomidory
--owoce
--morele
--olej
--arbuz
+-pomidory,
+-owoce,
+-jarzynki
+-mieso 
+-schabowy,
