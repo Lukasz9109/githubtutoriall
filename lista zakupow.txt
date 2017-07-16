@@ -9,4 +9,7 @@ moja lista zakupów:
 	panierke
 	
 	salatka:
-	
+		salata
+		kukurydza
+		kurcza
+		
